@@ -76,7 +76,6 @@ pidilite.maxprice=1500
 
 
 
-
 def lambda_handler(event,context):
     assert website_is_running is True
     d_min={}
